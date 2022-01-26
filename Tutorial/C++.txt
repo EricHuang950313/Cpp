@@ -1,0 +1,6 @@
+#include<iostream>  // 引用標頭檔iostream
+#include <bits/stdc++.h>  // 萬能標頭檔
+ios::sync_with_stdio(0);cin.tie(0);  // https://reurl.cc/ZrXX5W
+using namespace std;  // 使用std命名空間
+#define int long long  // 讓宣告的int預設為long long
+using ll = long long;  // 宣告long long為ll
